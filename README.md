@@ -95,3 +95,4 @@ copyProperties：复制属性值，从一个对象到另一个对象
 getPropertyDiscriptors：获取所有属性描述器
 isWriteable：检查属性是否可写
 getPropertyType：获取对象属性类型"# common" 
+"# common" 
