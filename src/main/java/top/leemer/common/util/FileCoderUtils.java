@@ -1,4 +1,4 @@
-package top.leemer.java_utils.common.util;
+package top.leemer.common.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 import static java.nio.file.StandardOpenOption.CREATE;
-import static top.leemer.java_utils.common.util.RSACoderUtils.*;
+import static top.leemer.common.util.RSACoderUtils.*;
 
 /**
  * 文件加密工具类

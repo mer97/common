@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.leemer</groupId>
-    <artifactId>java_utils</artifactId>
+    <artifactId>common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>java_utils</name>
+    <name>common</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

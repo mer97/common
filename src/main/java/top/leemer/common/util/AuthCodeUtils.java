@@ -1,4 +1,4 @@
-package top.leemer.java_utils.common.util;
+package top.leemer.common.util;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

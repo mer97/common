@@ -1,6 +1,7 @@
-package top.leemer.java_utils.common.response;
+package top.leemer.common.util;
 
 import org.springframework.http.HttpStatus;
+import top.leemer.common.bean.PageInfo;
 
 import java.io.Serializable;
 import java.util.Map;

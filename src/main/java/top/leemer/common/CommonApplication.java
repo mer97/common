@@ -1,13 +1,13 @@
-package top.leemer.java_utils;
+package top.leemer.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaUtilsApplication {
+public class CommonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JavaUtilsApplication.class, args);
+        SpringApplication.run(CommonApplication.class, args);
     }
 
 }

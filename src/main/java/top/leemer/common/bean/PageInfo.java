@@ -1,4 +1,4 @@
-package top.leemer.java_utils.common.response;
+package top.leemer.common.bean;
 
 import java.io.Serializable;
 

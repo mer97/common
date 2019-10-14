@@ -1,11 +1,11 @@
-package top.leemer.java_utils;
+package top.leemer.common;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-import top.leemer.java_utils.common.util.FileCoderUtils;
-import top.leemer.java_utils.common.util.RSACoderUtils;
+import top.leemer.common.util.FileCoderUtils;
+import top.leemer.common.util.RSACoderUtils;
 
 import java.io.IOException;
 import java.nio.file.Files;
